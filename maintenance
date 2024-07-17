@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excel Sheets Links</title>
+    <style>
+        h1 {
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>PLAZA MAINTENANCE</h1>
+    <ul>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=442974172&single=true" target="_blank">ELECTRICAL POWER SUPPLY</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=1519419650&single=true" target="_blank">ELECTRICAL COMPONENTS</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=773533193&single=true" target="_blank">JUNCTION BOX DETAILS</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=244329272&single=true" target="_blank">STORM WATER MANHOLES</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=362157332&single=true" target="_blank">DRAIN CHANNELS GF</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=562686233&single=true" target="_blank">RAIN WATER HARVESTING PITS</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=613306023&single=true" target="_blank">SEWAGE MANHOLES</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=1644984559&single=true" target="_blank">BASEMENT SUMPS</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=1067500268&single=true" target="_blank">BASEMENT SERVICES</a></li>
+        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Bxbfn5-DCYm1qHTPIZCm19Jkcb4tuyYOlCz-0C6N6E_VaJZmXOyNWLlGlWdDy8rNp9ABkVNwI_lG/pubhtml?gid=1258184717&single=true"_blank">OUTDOOR LIGHT POLES</a></li>
+    </ul>
+</body>
+</html>
